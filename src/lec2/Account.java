@@ -1,5 +1,8 @@
 package lec2;
 
+/**
+ * Пример deadlock
+ */
 public class Account {
 
     private int amount = 100;

@@ -1,5 +1,8 @@
 package lec2;
 
+/**
+ * Пример параллельной работы потоков
+ */
 public class Example1 {
 
     public static void main(String[] args) {

@@ -1,5 +1,8 @@
 package lec2;
 
+/**
+ * Пример data race
+ */
 public class Example2 {
 
     private static int counter = 0;

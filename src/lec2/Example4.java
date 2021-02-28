@@ -3,6 +3,9 @@ package lec2;
 import java.util.Collection;
 import java.util.TreeSet;
 
+/**
+ * Пример разрушения не-потокобезопасных структур данных при обращении из нескольких потоков
+ */
 public class Example4 {
 
     public static void main(String[] args) {
